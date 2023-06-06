@@ -1,1 +1,43 @@
-hola
+import java.util.ArrayList;
+
+public class Robot {
+    // Atributos 
+   String nombres;
+   int tragosDisponible;
+   int ordenes;
+
+//Metodos
+   public void robotBarman (){
+    System.out.println(nombres);
+   }
+   public void saludar (){
+
+   }
+   public void preguntarNombre (){
+    
+   }
+
+   public void mostrarTragos (){
+    
+   }
+   public void agregarTrago (){
+    
+   }
+   public void removerTrago (){
+    
+   }
+   public void tomarOrden (){
+    
+   }
+   public void prepararOrdenes (){
+    
+   }
+   public void servirOrdenes (){
+    
+   }
+
+
+    
+    
+
+}
